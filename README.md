@@ -3,6 +3,7 @@
 ### Olá, bem vindo ao livro de recitas 
 
 - bolo de chocolate
+- bolo de fubá
 
 
 
